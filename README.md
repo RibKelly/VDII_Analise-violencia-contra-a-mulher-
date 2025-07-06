@@ -16,7 +16,7 @@ Foram criados quatro gráficos interativos para ilustrar diferentes recortes dos
 - Relação entre agressor e vítima
 
 ## 🔗 **Acesse a página publicada:**
-👉 [Ver reportagem interativa no GitHub Pages](https://seunome.github.io/nome-do-repositorio/)
+👉 [Ver reportagem interativa no GitHub Pages](https://github.com/RibKelly/VDII_Analise-violencia-contra-a-mulher-/blob/main/index.html))
 
 ## 🛠 **Como foi feito**
 - Página desenvolvida com **HTML**, **CSS** (estratégia mobile-first) e **JavaScript**
